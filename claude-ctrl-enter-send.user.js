@@ -7,6 +7,8 @@
 // @match           https://claude.ai/*
 // @run-at          document-start
 // @grant           none
+// @homepageURL     https://github.com/KOTO28/claude-ctrl-enter-send/
+// @downloadURL     https://raw.githubusercontent.com/KOTO28/claude-ctrl-enter-send/main/claude-ctrl-enter-send.user.js
 // ==/UserScript==
 
 (() => {
